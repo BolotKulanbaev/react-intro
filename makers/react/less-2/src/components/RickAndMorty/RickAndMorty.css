@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid #000;
+  margin-bottom: 44px;
+  background-color: rgb(59, 153, 177);
+  padding: 13px;
+  color: white;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
